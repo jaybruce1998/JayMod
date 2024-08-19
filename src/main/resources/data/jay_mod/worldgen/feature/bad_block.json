@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:feature",
+  "config": {
+    "type": "jay_mod:bad_block",
+    "config": {}
+  }
+}
+
